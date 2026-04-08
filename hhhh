@@ -1,0 +1,38 @@
+ background-color: #0c0531;
+    margin: 75px  ;
+   padding-bottom: 100px;
+   border-style: solid;
+    padding: 50px;
+    border-radius: 20px;
+    width: 550px;
+    height: 350px;
+    color: #aaa;
+    max-width: 300px;
+
+
+     background-color: #0c0531;
+    background-color: ;
+    background-color: ;
+    margin: 75px;
+   padding-bottom: 100px;
+   border-style: solid;
+   padding: 50px;
+    border-radius: 20px;
+    width: 550px;
+    height: 350px;
+    color: #aaa;
+    width: 100%;
+   
+
+
+    display: flex;
+    background-color: black;
+    justify-content: center;
+    color:white;
+    border-radius: 45px;
+    font-size: 25px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 40px;
+    width: 500px;
+    height: 75px;
